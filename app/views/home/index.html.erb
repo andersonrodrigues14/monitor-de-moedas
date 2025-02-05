@@ -1,1 +1,5 @@
-<%= line_chart({"2025-01-01" => 2, "2025-01-02" => 3}) %>
+<% @chart_data.each do |chart| %>
+    <div>
+        <%= column_chart chart[:data], title: chart[:name], colors: [chart[:color]] %>
+    </div>
+<% end %>
