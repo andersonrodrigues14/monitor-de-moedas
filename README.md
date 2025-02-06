@@ -7,7 +7,7 @@ https://github.com/user-attachments/assets/f65e7e0c-6413-4cc1-b8eb-23500ec99193
 
 
 ## Tecnologias
-- Ruby
+- Ruby on Rails
 - Net/http
 - Json
 - chartkick
