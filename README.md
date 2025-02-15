@@ -3,7 +3,7 @@ Esse projeto é um aplicativo que busca em tempo real a variação do preço de 
 
 ## :camera_flash: Screenshots
 
-https://github.com/user-attachments/assets/5436e1df-df16-4e7a-9c7b-15ee20e44cf0
+https://github.com/user-attachments/assets/f65e7e0c-6413-4cc1-b8eb-23500ec99193
 
 
 ## Tecnologias
